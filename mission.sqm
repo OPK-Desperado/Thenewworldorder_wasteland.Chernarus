@@ -53,7 +53,7 @@ class Mission
 	};
 	class Groups
 	{
-		items=67;
+		items=68;
 		class Item0
 		{
 			side="LOGIC";
@@ -1562,6 +1562,7 @@ class Mission
 					rank="COLONEL";
 					skill=0.60000002;
 					text="blufor48";
+					description="BluFor - Soldier SL - **RESERVE SLOT** - YOU MAY BE KICKED TO MAKE ROOM FOR MEMBER";
 				};
 				class Item1
 				{
@@ -1572,6 +1573,7 @@ class Mission
 					player="PLAY CDG";
 					skill=0.60000002;
 					text="blufor9";
+					description="BluFor - Soldier Engineer - **RESERVE SLOT** - YOU MAY BE KICKED TO MAKE ROOM FOR MEMBER";
 				};
 				class Item2
 				{
@@ -1582,6 +1584,7 @@ class Mission
 					player="PLAY CDG";
 					skill=0.60000002;
 					text="blufor10";
+					description="BluFor - Soldier Medic - **RESERVE SLOT** - YOU MAY BE KICKED TO MAKE ROOM FOR MEMBER";
 				};
 				class Item3
 				{
@@ -1592,6 +1595,7 @@ class Mission
 					player="PLAY CDG";
 					skill=0.60000002;
 					text="blufor11";
+					description="BluFor - Soldier TL - **RESERVE SLOT** - YOU MAY BE KICKED TO MAKE ROOM FOR MEMBER";
 				};
 				class Item4
 				{
@@ -1602,6 +1606,7 @@ class Mission
 					player="PLAY CDG";
 					skill=0.60000002;
 					text="blufor12";
+					description="BluFor - Soldier AT - **RESERVE SLOT** - YOU MAY BE KICKED TO MAKE ROOM FOR MEMBER";
 				};
 				class Item5
 				{
@@ -1612,6 +1617,7 @@ class Mission
 					player="PLAY CDG";
 					skill=0.60000002;
 					text="blufor23";
+					description="BluFor - Soldier Engineer - **RESERVE SLOT** - YOU MAY BE KICKED TO MAKE ROOM FOR MEMBER";
 				};
 				class Item6
 				{
@@ -1622,6 +1628,7 @@ class Mission
 					player="PLAY CDG";
 					skill=0.60000002;
 					text="blufor28";
+					description="BluFor - Soldier Medic - **RESERVE SLOT** - YOU MAY BE KICKED TO MAKE ROOM FOR MEMBER";
 				};
 				class Item7
 				{
@@ -1632,6 +1639,7 @@ class Mission
 					player="PLAY CDG";
 					skill=0.60000002;
 					text="blufor33";
+					description="BluFor - Soldier TL - **RESERVE SLOT** - YOU MAY BE KICKED TO MAKE ROOM FOR MEMBER";
 				};
 				class Item8
 				{
@@ -1642,6 +1650,7 @@ class Mission
 					player="PLAY CDG";
 					skill=0.60000002;
 					text="blufor38";
+					description="BluFor - Soldier AT - **RESERVE SLOT** - YOU MAY BE KICKED TO MAKE ROOM FOR MEMBER";
 				};
 				class Item9
 				{
@@ -1652,6 +1661,7 @@ class Mission
 					player="PLAY CDG";
 					skill=0.60000002;
 					text="blufor43";
+					description="BluFor - Soldier GL - **RESERVE SLOT** - YOU MAY BE KICKED TO MAKE ROOM FOR MEMBER";
 				};
 			};
 		};
@@ -1672,6 +1682,7 @@ class Mission
 					rank="COLONEL";
 					skill=0.60000002;
 					text="opfor47";
+					description="OpFor - Soldier TeamLeader - **RESERVE SLOT** - YOU MAY BE KICKED TO MAKE ROOM FOR MEMBER";
 				};
 				class Item1
 				{
@@ -1682,6 +1693,7 @@ class Mission
 					player="PLAY CDG";
 					skill=0.60000002;
 					text="opfor5";
+					description="OpFor - Soldier Sab - **RESERVE SLOT** - YOU MAY BE KICKED TO MAKE ROOM FOR MEMBER";
 				};
 				class Item2
 				{
@@ -1692,6 +1704,7 @@ class Mission
 					player="PLAY CDG";
 					skill=0.60000002;
 					text="opfor6";
+					description="OpFor - Soldier Medic - **RESERVE SLOT** - YOU MAY BE KICKED TO MAKE ROOM FOR MEMBER";
 				};
 				class Item3
 				{
@@ -1702,6 +1715,7 @@ class Mission
 					player="PLAY CDG";
 					skill=0.60000002;
 					text="opfor7";
+					description="OpFor - Soldier Sab - **RESERVE SLOT** - YOU MAY BE KICKED TO MAKE ROOM FOR MEMBER";
 				};
 				class Item4
 				{
@@ -1712,6 +1726,7 @@ class Mission
 					player="PLAY CDG";
 					skill=0.60000002;
 					text="opfor8";
+					description="OpFor - Soldier HAT - **RESERVE SLOT** - YOU MAY BE KICKED TO MAKE ROOM FOR MEMBER";
 				};
 				class Item5
 				{
@@ -1722,6 +1737,7 @@ class Mission
 					player="PLAY CDG";
 					skill=0.60000002;
 					text="opfor22";
+					description="OpFor - Soldier Sniper - **RESERVE SLOT** - YOU MAY BE KICKED TO MAKE ROOM FOR MEMBER";
 				};
 				class Item6
 				{
@@ -1732,6 +1748,7 @@ class Mission
 					player="PLAY CDG";
 					skill=0.60000002;
 					text="opfor27";
+					description="OpFor - Soldier MG - **RESERVE SLOT** - YOU MAY BE KICKED TO MAKE ROOM FOR MEMBER";
 				};
 				class Item7
 				{
@@ -1742,6 +1759,7 @@ class Mission
 					player="PLAY CDG";
 					skill=0.60000002;
 					text="opfor32";
+					description="OpFor - Soldier Medic - **RESERVE SLOT** - YOU MAY BE KICKED TO MAKE ROOM FOR MEMBER";
 				};
 				class Item8
 				{
@@ -1752,6 +1770,7 @@ class Mission
 					player="PLAY CDG";
 					skill=0.60000002;
 					text="opfor37";
+					description="OpFor - Soldier HAT - **RESERVE SLOT** - YOU MAY BE KICKED TO MAKE ROOM FOR MEMBER";
 				};
 				class Item9
 				{
@@ -1762,6 +1781,7 @@ class Mission
 					player="PLAY CDG";
 					skill=0.60000002;
 					text="opfor42";
+					description="OpFor - Soldier - **RESERVE SLOT** - YOU MAY BE KICKED TO MAKE ROOM FOR MEMBER";
 				};
 			};
 		};
@@ -1800,6 +1820,7 @@ class Mission
 					leader=1;
 					skill=0.60000002;
 					text="guer23";
+					description="PMC - Soldier MG - **RESERVE SLOT** - YOU MAY BE KICKED TO MAKE ROOM FOR MEMBER";
 				};
 			};
 		};
@@ -1819,6 +1840,7 @@ class Mission
 					leader=1;
 					skill=0.60000002;
 					text="guer25";
+					description="PMC - Soldier Scout - **RESERVE SLOT** - YOU MAY BE KICKED TO MAKE ROOM FOR MEMBER";
 				};
 			};
 		};
@@ -1838,6 +1860,7 @@ class Mission
 					leader=1;
 					skill=0.60000002;
 					text="guer30";
+					description="PMC - Soldier Medic - **RESERVE SLOT** - YOU MAY BE KICKED TO MAKE ROOM FOR MEMBER";
 				};
 			};
 		};
@@ -1857,6 +1880,7 @@ class Mission
 					leader=1;
 					skill=0.60000002;
 					text="guer24";
+					description="PMC - Soldier Sniper - **RESERVE SLOT** - YOU MAY BE KICKED TO MAKE ROOM FOR MEMBER";
 				};
 			};
 		};
@@ -1876,6 +1900,7 @@ class Mission
 					leader=1;
 					skill=0.60000002;
 					text="guer29";
+					description="PMC - Soldier Medic - **RESERVE SLOT** - YOU MAY BE KICKED TO MAKE ROOM FOR MEMBER";
 				};
 			};
 		};
@@ -1895,6 +1920,7 @@ class Mission
 					leader=1;
 					skill=0.60000002;
 					text="guer28";
+					description="PMC - Soldier Sab - **RESERVE SLOT** - YOU MAY BE KICKED TO MAKE ROOM FOR MEMBER";
 				};
 			};
 		};
@@ -1914,6 +1940,7 @@ class Mission
 					leader=1;
 					skill=0.60000002;
 					text="guer27";
+					description="PMC - Soldier GL - **RESERVE SLOT** - YOU MAY BE KICKED TO MAKE ROOM FOR MEMBER";
 				};
 			};
 		};
@@ -1933,6 +1960,7 @@ class Mission
 					leader=1;
 					skill=0.60000002;
 					text="guer22";
+					description="PMC - Commander - **RESERVE SLOT** - YOU MAY BE KICKED TO MAKE ROOM FOR MEMBER";
 				};
 			};
 		};
@@ -1952,6 +1980,7 @@ class Mission
 					leader=1;
 					skill=0.60000002;
 					text="guer21";
+					description="PMC - Soldier CO - **RESERVE SLOT** - YOU MAY BE KICKED TO MAKE ROOM FOR MEMBER";
 				};
 			};
 		};
@@ -1971,6 +2000,7 @@ class Mission
 					leader=1;
 					skill=0.60000002;
 					text="blufor4";
+					description="BluFor - SoldierS Engineer - **SRESERVE SLOT** - YOU MAY BE KICKED TO MAKE ROOM FOR MEMBER";
 				};
 			};
 		};
@@ -2251,6 +2281,59 @@ class Mission
 					skill=0.60000002;
 					text="hc3";
 					init="this addEventHandler[""handledamage"", {false}]; this disableAI ""MOVE""; this DisableAI ""ANIM""; this disableAI ""FSM""; removeAllWeapons this;";
+				};
+			};
+		};
+		class Item67
+		{
+			side="CIV";
+			class Vehicles
+			{
+				items=3;
+				class Item0
+				{
+					position[]={-5856.7402,349.84799,16358.207};
+					special="NONE";
+					id=150;
+					side="CIV";
+					vehicle="RU_Policeman";
+					player="PLAYER COMMANDER";
+					leader=1;
+					lock="UNLOCKED";
+					skill=0.60000002;
+					text="ADMIN_1";
+					init="this addEventHandler[""handledamage"", {false}];";
+					description="***AUTO KICK SLOT***  SERVER ADMIN RESERVED";
+				};
+				class Item1
+				{
+					position[]={-5920.0371,360.25427,16355.85};
+					special="NONE";
+					id=151;
+					side="CIV";
+					vehicle="RU_Policeman";
+					player="PLAY CDG";
+					leader=1;
+					lock="UNLOCKED";
+					skill=0.60000002;
+					text="ADMIN_4";
+					init="this addEventHandler[""handledamage"", {false}];";
+					description="***AUTO KICK SLOT***  SERVER ADMIN RESERVED";
+				};
+				class Item2
+				{
+					position[]={-5981.3613,370.40103,16354.689};
+					special="NONE";
+					id=152;
+					side="CIV";
+					vehicle="RU_Policeman";
+					player="PLAY CDG";
+					leader=1;
+					lock="UNLOCKED";
+					skill=0.60000002;
+					text="ADMIN_2";
+					init="this addEventHandler[""handledamage"", {false}];";
+					description="***AUTO KICK SLOT***  SERVER ADMIN RESERVED";
 				};
 			};
 		};
@@ -12235,7 +12318,7 @@ class Mission
 		{
 			position[]={6778.729,0.31240335,1959.4785};
 			name="Server Rules";
-			text="  Forums - http://www.megabitspersecond.co.uk";
+			text="  Forums - http://www.sigclan.com";
 			type="mil_warning";
 			colorName="ColorRed";
 		};
@@ -12243,7 +12326,7 @@ class Mission
 		{
 			position[]={6778.8696,0.098104782,1998.5195};
 			name="Server Rules_1_1";
-			text="  Teamspeak IP - 94.76.250.72";
+			text="  Teamspeak IP - ts.sigclan.com";
 			type="mil_warning";
 			colorName="ColorRed";
 		};

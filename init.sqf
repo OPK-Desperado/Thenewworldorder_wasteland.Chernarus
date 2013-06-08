@@ -25,6 +25,11 @@ true spawn {
 	if(!isDedicated) then {
 		titleText ["Setting up player...", "BLACK", 0];
 		waitUntil {player == player};
+		//Check if civilian
+		if(!(getPlayerUID(player) in serverAdministrators) and (!(getPlayerUID(player) in administrators) && playerSide == civilian)) then { 
+        endMission "LOSER"; 
+		}; 
+		//End check civilian
 		client_initEH = player addEventHandler ["Respawn", {removeAllWeapons (_this select 0);}];
 	};
 };
