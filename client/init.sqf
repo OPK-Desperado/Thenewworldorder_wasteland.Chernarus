@@ -68,7 +68,8 @@ waituntil {!(IsNull (findDisplay 46))};
 [] execVM "client\functions\createChopStoreMarkers.sqf";
 [] execVM "client\functions\createVehStoreMarkers.sqf";
 [] execVM "client\functions\createBuildStoreMarkers.sqf";
-//true execVM "client\functions\loadAtmosphere.sqf"; // Set to false to disable dust, ash and wind
+_safeZones = [] execVM "client\functions\createSafezones.sqf";
+waitUntil{sleep 0.1; scriptDone _safeZones};
 [] execVM "client\functions\playerTags.sqf";
 [] execVM "client\functions\groupTags.sqf";
 [] call updateMissionsMarkers;

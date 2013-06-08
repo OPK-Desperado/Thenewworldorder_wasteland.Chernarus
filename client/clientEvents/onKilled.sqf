@@ -171,7 +171,7 @@ _graveCross setPosATL _absoluteCrossPos;
 
 // Disable damage for tombstones.
 _graveBase addEventHandler["handledamage", { false }];
-_graveCross addEventHandler["handledamage", { true }];
+_graveCross addEventHandler["handledamage", { false }];
 
 // Disable physics for the tombstone on all clients.      
 _announce = [nil,_graveCross,"per",rENABLESIMULATION,false] call RE;
