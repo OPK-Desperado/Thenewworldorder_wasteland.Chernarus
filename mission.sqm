@@ -6769,7 +6769,7 @@ class Mission
 	};
 	class Markers
 	{
-		items=917;
+		items=912;
 		class Item0
 		{
 			position[]={10472.047,6,2300.7461};
@@ -12403,61 +12403,6 @@ class Mission
 			type="Empty";
 		};
 		class Item911
-		{
-			position[]={-3097.0552,449.33578,14667.989};
-			name="bs1";
-			markerType="ELLIPSE";
-			type="Empty";
-			fillName="DiagGrid";
-			a=150;
-			b=150;
-			angle=58.781898;
-		};
-		class Item912
-		{
-			position[]={5862.8545,5.9418859,2165.082};
-			name="bs1_1";
-			markerType="ELLIPSE";
-			type="Empty";
-			fillName="DiagGrid";
-			a=150;
-			b=150;
-			angle=-200.18019;
-		};
-		class Item913
-		{
-			position[]={13264.006,5.5073199,4027.8125};
-			name="bs1_2";
-			markerType="ELLIPSE";
-			type="Empty";
-			fillName="DiagGrid";
-			a=150;
-			b=150;
-			angle=-50.76276;
-		};
-		class Item914
-		{
-			position[]={11085.592,251.09885,7891.9917};
-			name="bs1_3";
-			markerType="ELLIPSE";
-			type="Empty";
-			fillName="DiagGrid";
-			a=150;
-			b=150;
-			angle=52.373379;
-		};
-		class Item915
-		{
-			position[]={6012.1118,266.98846,10410.509};
-			name="bs1_4";
-			markerType="ELLIPSE";
-			type="Empty";
-			fillName="DiagGrid";
-			a=150;
-			b=150;
-			angle=-56.059299;
-		};
-		class Item916
 		{
 			position[]={4761.0605,339,10187.874};
 			name="heliSpawn_14_1";
