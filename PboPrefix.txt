@@ -1,4 +1,0 @@
-Users\andy.MELLOR\Desktop\Wasteland_United_Chernarus.Chernarus
-prefix=Users\andy.MELLOR\Desktop\Wasteland_United_Chernarus.Chernarus
-Mikero=DePbo.dll
-Pbo Type is: Arma

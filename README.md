@@ -1,10 +1,3 @@
-<<<<<<< HEAD
-404Games - 404Wasteland(v3)
-=======
-404Games - 404Wasteland(v2)
->>>>>>> small fix
-=============
-
 404Wasteland:Chernarus Mission File
 
 About
@@ -73,8 +66,5 @@ Troubleshooting
 
 Previous Versions
 
-<<<<<<< HEAD
 * All other versions are avalible from http://www.404games.co.uk/wastelands
-=======
-* All other versions are avalible from http://www.404games.co.uk/wastelands
->>>>>>> small fix
+
