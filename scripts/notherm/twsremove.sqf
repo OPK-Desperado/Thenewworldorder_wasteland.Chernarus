@@ -1,7 +1,7 @@
 _layer = 85125;
 _block = false;
 
-_Weapons = ["SCAR_L_STD_EGLM_TWS","m8_tws","m8_tws_sd","m107_TWS_EP1","M110_TWS_EP1","AKS_74_GOSHAWK","BAF_AS50_TWS","M249_TWS_EP1","M249_TWS_EP1","SCAR_H_STD_EGLM_Spect","PMC_AS50_TWS","BAF_L85A2_RIS_CWS","SCAR_H_STD_TWS_SD"];
+_Weapons = ["SCAR_L_STD_EGLM_TWS","m8_tws","m8_tws_sd","m107_TWS_EP1","M110_TWS_EP1","AKS_74_GOSHAWK","BAF_AS50_TWS","M249_TWS_EP1","M249_TWS_EP1","PMC_AS50_TWS","BAF_L85A2_RIS_CWS","SCAR_H_STD_TWS_SD"];
 
 while {true} do {
 	if ({player hasWeapon _x} count _Weapons > 0) then {
