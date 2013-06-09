@@ -142,7 +142,6 @@ ammoArray = [
 	["5Rnd 762x51 M24","5Rnd_762x51_M24",35],
 	["6Rnd HE M203","6Rnd_HE_M203",100],
 	["Dragon","Dragon_EP1",500],
-	["1Rnd HE M203","1Rnd_HE_M203",100],
 	["IED V1","BAF_ied_v1",1100],
 	["IED V2","BAF_ied_v2",1500],
 	["IED V3","BAF_ied_v3",1200],
