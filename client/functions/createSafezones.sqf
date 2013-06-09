@@ -2,7 +2,7 @@
 //Safezones at Gunstore locations
 _pos1 = (getMarkerPos "gunstore1");
 _pzone1 = "ProtectionZone_Ep1" createVehicleLocal (_pos1);
-_pzone1 setObjectTexture [0,"##(argb,8,8,3)color(0,0,0,0,ca)"];
+_pzone1 setObjectTexture [0,"#(argb,8,8,3)color(0,0,0,0,ca)"];
 _pzone1 setVehicleInit "this setVectorUp [0,0,1]";
 _pzone1 setPos [getPos _pzone1 select 0, getPos _pzone1 select 1, (getPos _pzone1 select 2) -20];
 
