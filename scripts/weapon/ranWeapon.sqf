@@ -2,7 +2,7 @@
 //Author : Ed!
 
 _odd1 = 40; 						//The odds that a building is selected to place loot.
-_odd2 = 10;							//The odds that the selected building's spots will have loot(almost like odds per room).
+_odd2 = 20;							//The odds that the selected building's spots will have loot(almost like odds per room).
 _itemtoweaponratio = 85; 			//The chances of an item like food,money etc. will spawn instead of a weapon.
 randomweaponspawnminmoney = 50; 	//The minimum amount of money that can spawn.
 randomweaponspawnmaxmoney = 250;	//The maximum amount of money that can spawn.
