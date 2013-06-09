@@ -97,17 +97,35 @@ if ((_uid in moderators) OR (_uid in administrators) OR (_uid in serverAdministr
 	            	closeDialog 0;   
 	                execVM "client\systems\adminPanel\loadDebugMenu.sqf";
 			    };
-				case 6: //Removing all dead vehicles.
+				case 6: //Debug Menu
+			    {   
+	            	closeDialog 0;   
+			    };
+				case 7: //Removing all dead vehicles.
 			    {
 					closeDialog 0;
 					hint "Removing all destroyed vehicles.";
 					execVM "scripts\admin\deletevehicles.sqf";
 			    };
-				case 7: //Removing all dead players.
+				case 8: //Removing all dead players.
 			    {
 					closeDialog 0;
 					hint "Removing all dead bodies.";
 					execVM "scripts\admin\deletebodies.sqf";
+					
+			    };
+				case 9: //Removing all dead players.
+			    {
+					closeDialog 0;
+					hint "Spawn C130.";
+					execVM "addons\c130\herc.sqf";
+					
+			    };
+				case 10: //Removing all dead players.
+			    {
+					closeDialog 0;
+					hint "Base Build.";
+					execVM "client\systems\contentMenu\init.sqf";
 					
 			    };
 			};

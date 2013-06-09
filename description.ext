@@ -22,6 +22,7 @@ class Header
 #include "client\systems\BuildStore\dialog\buildshop_settings.hpp"
 #include "client\systems\vehicleStore\dialog\vehshop_settings.hpp"
 #include "client\systems\ChopperStore\dialog\chopshop_settings.hpp"
+#include "client\systems\contentMenu\dialog\content_settings.hpp"
 #include "client\systems\adminPanel\dialog\adminMenu.hpp"
 #include "client\systems\adminPanel\dialog\modMenu.hpp"
 #include "client\systems\adminPanel\dialog\serverAdminMenu.hpp"

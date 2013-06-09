@@ -21,8 +21,11 @@ if ((_uid in moderators) OR (_uid in administrators) OR (_uid in serverAdministr
 					"Teleport",
 	                "Money",
 	                "Debug Menu",
+					"------------------",
 					"Remove destroyed vehicles",
-					"Remove Dead players"
+					"Remove Dead players",
+					"C130 Spawn",
+					"Base Builds"
 	];
 	
 	{

@@ -1,7 +1,10 @@
 if(!X_Server) exitWith {};
 
-//Admin menu access levels
+clanmembers = [""]; 
+publicVariable "clanmembers";
 
+
+//Admin menu access levels
 moderators = [""]; 
 publicVariable "moderators"; 
            
@@ -9,6 +12,7 @@ administrators = [""];
 publicVariable "administrators";
 
 serverAdministrators = [
-""		//Name
+"4519558",		//cobramike
+"2173441"		//George
 ];
 publicVariable "serverAdministrators";
