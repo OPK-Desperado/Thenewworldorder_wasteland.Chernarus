@@ -38,7 +38,7 @@
 	</Package>
 	<Package name="WelcomeMessage">
 		<Key ID="STR_WL_WelcomeToWasteland">
-			<English>&lt;t color='#86d600' shadow = 2 size='2.5' &gt;Welcome to MBS Wasteland&lt;t color='#FFFFFF' size='1' &gt;</English>
+			<English>&lt;t color='#86d600' shadow = 2 size='2.5' &gt;Welcome to Sig Clan Wasteland&lt;t color='#FFFFFF' size='1' &gt;</English>
 		</Key>
 		<Key ID="STR_WL_YouAreInTeam">
 			<English>&lt;t color='#86d600' shadow = 2 size='2.5' &gt;Instructions&lt;br/&gt;&lt;t color='#FFFFFF' size='1.5' &gt;&#127;You are in &lt;img size="1.5" image="%1"/&gt; &lt;t color="%2"&gt;%3&lt;/t&gt; team.&lt;br/&gt;&#127;Attacking or stealing from other %4 players is &lt;t color="#cc0000"&gt;FORBIDDEN.&lt;/t&gt;&lt;br/&gt;&#127;No VOIP/VON in GLOBAL&lt;br/&gt;&#127;You will be locked to your team after 3 minutes.&lt;/t&gt;</English>
@@ -47,7 +47,7 @@
 			<English>&lt;t color='#86d600' shadow = 2 size='2.5' &gt;Instructions&lt;br/&gt;&lt;t color='#FFFFFF' size='1.5' &gt;&#127;You are in &lt;img size="1.5" image="%1"/&gt; &lt;t color="%2"&gt;%3&lt;/t&gt; team.&lt;br/&gt;&#127;You are &lt;t color="#00aa00"&gt;FREE TO ATTACK ANYONE.&lt;/t&gt;&lt;br/&gt;&#127;No VOIP/VON in GLOBAL&lt;/t&gt;</English>
 		</Key>
 		<Key ID="STR_WL_MapMoreInfo">
-			<English>&lt;t color='#FFFFFF' shadow = 2 size='1.5' &gt;Welcome to MBSWasteland.&lt;br/&gt;Please report all bugs/problems to http://www.megabitspersecond.co.uk/&lt;br/&gt;Server restarts are at 0500 and 1700 GMT.&lt;br/&gt;For more info/rules please see the map.&lt;br/&gt;Enjoy playing here? Consider donating! Visit the forums for more info.&lt;br/&gt;&lt;br/&gt;&lt;img image='client\icons\key_windows.paa' size='1.5'/&gt; Windows key to show friendly nicknames.&lt;br/t&gt;Tilde key to show the player menu.&lt;br/&gt;2 key to perform a combat roll.&lt;br/&gt;</English>
+			<English>&lt;t color='#FFFFFF' shadow = 2 size='1.5' &gt;Welcome to 404Wasteland.&lt;br/&gt;Please report all bugs/problems to http://www.sigclan.com restarts are at 0500 and 1700 GMT.&lt;br/&gt;For more info/rules please see the map.&lt;br/&gt;Enjoy playing here? Consider donating! Visit the forums for more info.&lt;br/&gt;&lt;br/&gt;&lt;img image='client\icons\key_windows.paa' size='1.5'/&gt; Windows key to show friendly nicknames.&lt;br/t&gt;Tilde key to show the player menu.&lt;br/&gt;2 key to perform a combat roll.&lt;br/&gt;</English>
 		</Key>
 	</Package>
 	<Package name="TeamKillWarningMessage">
