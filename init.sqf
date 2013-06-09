@@ -65,7 +65,7 @@ if(X_Server) then {
 [] execVM "addons\proving_Ground\init.sqf";
 [] execVM "scripts\grenadeStop\grenadeStop.sqf";
 [] execVM "addons\advertise\advertise.sqf";
-[300,60] execVM "scripts\clean\cly_removedead.sqf";
+[300,300] execVM "scripts\clean\cly_removedead.sqf";
 [0.1, 0.5, 0.5] execVM "addons\scripts\DynamicWeatherEffects.sqf";
 
 //Persistens Stats
