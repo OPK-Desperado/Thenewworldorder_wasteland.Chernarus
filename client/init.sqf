@@ -76,14 +76,8 @@ waitUntil{sleep 0.1; scriptDone _safeZones};
 [] call updateRadarMarkers;
 if (isNil "FZF_IC_INIT") then   {
 	call compile preprocessFileLineNumbers "client\functions\newPlayerIcons.sqf";
-	#include "members.sqf";
 };
 sleep 1;
 true spawn playerSpawn;
 [] execVM "client\functions\antiCheatClient.sqf";
 [] spawn FZF_IC_INIT;
-//Welcome Message to players
-sleep 1;
-if ((getPlayerUID player) in 404members) exitWith {hint parseText format["Welcome %1 , Nice to see a 404 Member on our server <img size='2' image='pics\404.paa'/>", name player]};
-if ((getPlayerUID player) in membersUID) exitWith {hint parseText format["Welcome %1 , Your SiG Member status is Confirmed <img size='2' image='pics\wel.paa'/>", name player]};
-if !(typeOf (vehicle player) in reserveArray) exitWith {hint parseText format["Welcome to the SiG Wasteland server %1, We are recruiting, join us at www.sigclan.com  <img size='2' image='pics\wel.paa'/>", name player]};
