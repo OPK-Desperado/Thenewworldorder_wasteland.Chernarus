@@ -3,7 +3,7 @@
 About
 -----
 
-Version 2 - This is a compleate recode by Deadbeat with the changes the community wanted.
+Version 3 - This is a compleate recode by Deadbeat with the changes the community wanted.
 Wasteland is a survival sandbox mission with hunger and thirst. Where you can build a base work as a team or go as a lone wolf, you have missions to keep you busy where you could find some people to hunt or just get some fancy toys to help you rule the server.
 
 How To Host 404Wasteland
