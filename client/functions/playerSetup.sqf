@@ -18,6 +18,8 @@ removeAllWeapons _player;
 removeBackpack _player;
 
 //Default case means something fucked up.
+_player addweapon "NVGoggles";
+_player addweapon "Binocular";
 _player addMagazine "6Rnd_45ACP";
 _player addMagazine "6Rnd_45ACP";
 _player addWeapon "revolver_gold_EP1";
@@ -26,6 +28,8 @@ _player selectWeapon "revolver_gold_EP1";
 if(str(playerSide) in ["WEST"]) then
 {
     removeAllWeapons _player;
+	_player addweapon "NVGoggles";
+	_player addweapon "Binocular";
     _player addMagazine "7Rnd_45ACP_1911";
     _player addMagazine "7Rnd_45ACP_1911";
 	_player addWeapon "Colt1911";
@@ -35,6 +39,8 @@ if(str(playerSide) in ["WEST"]) then
 if(str(playerSide) in ["EAST"]) then
 {
     removeAllWeapons _player;
+	_player addweapon "NVGoggles";
+	_player addweapon "Binocular";
     _player addMagazine "8Rnd_9x18_Makarov";
     _player addMagazine "8Rnd_9x18_Makarov";
     _player addMagazine "8Rnd_9x18_Makarov";
@@ -45,6 +51,8 @@ if(str(playerSide) in ["EAST"]) then
 if(str(playerSide) in ["GUER"]) then
 {
     removeAllWeapons _player;
+	_player addweapon "NVGoggles";
+	_player addweapon "Binocular";
     _player addMagazine "17Rnd_9x19_glock17";
 	_player addWeapon "glock17_EP1";
 	_player selectWeapon "glock17_EP1";
