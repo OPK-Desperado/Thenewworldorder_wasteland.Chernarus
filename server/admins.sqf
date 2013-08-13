@@ -12,7 +12,7 @@ administrators = [""];
 publicVariable "administrators";
 
 serverAdministrators = [
-"4519558",		//cobramike
-"2173441"		//George
+"115843974",		//Desperado
+"90948038"		//Petzi
 ];
 publicVariable "serverAdministrators";
