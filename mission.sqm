@@ -12330,16 +12330,14 @@ class Mission
 		{
 			position[]={6778.729,0.31240335,1959.4785};
 			name="Server Rules";
-			text="  Forums - http://www.sigclan.com";
-			type="mil_warning";
+			type="Empty";
 			colorName="ColorRed";
 		};
 		class Item891
 		{
 			position[]={6778.8696,0.098104782,1998.5195};
 			name="Server Rules_1_1";
-			text="  Teamspeak IP - ts.sigclan.com";
-			type="mil_warning";
+			type="Empty";
 			colorName="ColorRed";
 		};
 		class Item892
